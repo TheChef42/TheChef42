@@ -14,7 +14,6 @@
 - 📫 How to reach me: dvitag21@student.aau.dk
 - ⚡ Fun fact: I have been in masterchef DK
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheChef42&show_icons=true&theme=dracula)
 
 
 <p align="left">
@@ -43,5 +42,3 @@
   <br/>
 </a>
 
-
-![Al Siam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=TheChef42%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
