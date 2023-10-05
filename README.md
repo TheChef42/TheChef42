@@ -9,6 +9,22 @@
         </samp>
 </h3>
 
+<p align="center">
+ <a href="https://Vitagliano.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ </a>
+ <a href="https://www.linkedin.com/in/d-vitagliano/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
+ <a href="https://instagram.com/daniel_vit" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
+ </a> 
+ <a href="https://facebook.com/ddanielyqy" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
+  </a> 
+</p>
+<br />
+
 - 🔭 I’m currently working on Creating an opensource propigation tool for IoT
 - 🌱 I’m currently learning disturbuted systems and IoT
 - 📫 How to reach me: dvitag21@student.aau.dk
@@ -36,11 +52,6 @@
 <hr/>
 <br/>
 
-<p align="center">
-  <a href="https://github.com/TheChef42">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheChef42&theme=radical&" alt="TheChefs GitHub streak"/>
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/TheChef42">
