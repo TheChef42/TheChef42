@@ -3,11 +3,11 @@
 </a>
 
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hey There!, I am Daniel
                 <b><a target="_blank" href="https://vitagliano.dk">Vitagliano</a></b>
         </samp>
-</h3>
+</h1>
 
 <p align="center">
  <a href="https://Vitagliano.com" target="blank">
